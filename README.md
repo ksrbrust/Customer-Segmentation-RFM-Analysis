@@ -5,11 +5,10 @@ bins). You can use quartiles (1 to 4) or custom scores (e.g., 1 to 5) for each R
 metric. Combine the RFM scores to create a single RFM score for each customer. 
 
 # 
-* Customer Analysis 
-o How many unique customers are there in the dataset? 
-o What is the distribution of the number of orders per customer? 
-o Can you identify the top 5 customers who have made the most purchases by order 
-count?
+* Customer Analysis <br>
+o How many unique customers are there in the dataset? <br>
+o What is the distribution of the number of orders per customer? <br>
+o Can you identify the top 5 customers who have made the most purchases by order count?<br>
 * Product Analysis 
 o What are the top 10 most frequently purchased products? 
 o What is the average price of products in the dataset? 
