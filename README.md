@@ -1,5 +1,5 @@
-## Customer-Segmentation-RFM-Analysis
-# Data Preprocessing: 
+# Customer-Segmentation-RFM-Analysis
+## Data Preprocessing: 
 Import the dataset and perform necessary data preprocessing steps, including data cleaning, handling missing values, and converting data types if needed.Calculate the RFM metrics for each customer. Assign RFM scores to each customer based on their quartiles (or custom-defined 
 bins). You can use quartiles (1 to 4) or custom scores (e.g., 1 to 5) for each RFM 
 metric. Combine the RFM scores to create a single RFM score for each customer. 
@@ -43,3 +43,6 @@ o What are the top 5 products with the highest profit margins? <br>
 * Customer Satisfaction <br>
 o Is there any data available on customer feedback or ratings for products or services? <br>
 o Can you analyze the sentiment or feedback trends, if available? <br>
+
+## Dataset:
+https://www.kaggle.com/datasets/carrie1/ecommerce-data)
